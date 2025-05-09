@@ -252,7 +252,7 @@ class ShooterScene extends Phaser.Scene {
             }
 
             this.bullets.forEach((bullet, bi) => {
-                if (Phaser.Math.Distance.Between(bullet.x, bullet.y, enemy.x, enemy.y) < 10) {
+                if (Phaser.Math.Distance.Between(bullet.x, bullet.y, enemy.x, enemy.y) < 20) {
                     bullet.destroy();
                     this.bullets.splice(bi, 1);
 
