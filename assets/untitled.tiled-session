@@ -1,0 +1,122 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "#LevelOneMap": {
+            "scaleInDock": 1
+        },
+        "LevelOneMap.tmx": {
+            "scale": 2.5976,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 172.274407145057,
+                "y": 148.59870649830614
+            }
+        },
+        "LevelOneMap.tmx#LevelOneMap": {
+            "scaleInDock": 0.5445
+        },
+        "LevelOneMapFinal.json": {
+            "scale": 2.81,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 51.779359430604956,
+                "y": 81.49466192170819
+            }
+        },
+        "LevelOneMapFinal.json#Base Layer": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "LevelOneMapFinal.tmj": {
+            "scale": 3.2332,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 123.4071508103427,
+                "y": 116.44810095261661
+            }
+        },
+        "LevelOneMapFinal.tmj#LevelOneMap": {
+            "scaleInDock": 1
+        },
+        "LevelThreeMap.tmx": {
+            "scale": 1.2117,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 267.80556243294546,
+                "y": 288.02508871832964
+            }
+        },
+        "LevelThreeMap.tmx#LevelThreeMap": {
+            "scaleInDock": 0.7371
+        },
+        "LevelThreeMapFinal.json": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 175.75,
+                "y": 176
+            }
+        },
+        "LevelThreeMapFinal.json#Base Layer": {
+            "scaleInDock": 0.662
+        },
+        "LevelTwoMap.tmx": {
+            "scale": 1.6362,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 181.2125657010145,
+                "y": 241.41303019190806
+            }
+        },
+        "LevelTwoMap.tmx#LevelTwoMap": {
+            "scaleInDock": 0.5433
+        },
+        "LevelTwoMapFinal.json": {
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 113.75,
+                "y": 126.5
+            }
+        },
+        "LevelTwoMapFinal.json#Base Layer": {
+            "scaleInDock": 1
+        },
+        "test.tmx": {
+            "scale": 1.5896306818181818,
+            "selectedLayer": -1,
+            "viewCenter": {
+                "x": 176.1415423107855,
+                "y": 176.14154231078547
+            }
+        }
+    },
+    "last.imagePath": "/Users/yuvalschwarzbord/GSI/assets",
+    "map.height": 22,
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 22,
+    "openFiles": [
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "LevelThreeMap.tmx",
+        "LevelTwoMap.tmx",
+        "LevelOneMap.tmx",
+        "LevelOneMapFinal.tmj",
+        "test.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
